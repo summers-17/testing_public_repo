@@ -1,1 +1,13 @@
-Hello, world!
+{
+  "type": "service_account",
+  "project_id": "xdr-sc-gcp-dev-0k1xy",
+  "private_key_id": "eba94b71e61c23750c375217bd435f13647e0d62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCgV6BKzlexf/rA\noDIcAxL9Av5n/CiNR2nmUri+aIeVlEUB4HNOGS5mKxY8qnbcZVSMQ5HhtpUQYMY2\nG8cRQsWbxjo33q4Az6zBDPrVQ4+d+cx3DRUeVHqoN0m2nYqU3hFCD0e31HyWrwD6\nolS2JW3co1D13aAB+TOk/HKKsH6uLBYJkoCxvzU7hycEFsQolFw+fq8vWniwyDFY\nWa6v/na1cWi9WDXMaW5llwSG+b/PzUjS/0PYBhV8Gegvc0jYQfufD4NsI2r8ixYD\ntxoFOmEwpmg9u2prfiusQ6tSj8B26FYqoeeHDflAJ6ZLLQ6PAruv8EvuPLV8M4n/\npnJVXV7PAgMBAAECggEAQlMczfS+l4Ct06IwOCAZaakkXRUUHSSOLKTJIJISi5AS\nX21dpM+Lvt1RzHRiyFXt/DszC9+/l0/Ajb89v+kT3pTHnjaxWUqOViitVSwmKx2a\nMyCpPKuLNSvxhOVz3pJhJyc07lip1Ja9W+9sBRBEeoDfy2QKfOZ9M2DtbGsHa7nO\nIoCDaa4Gu9XpO6vUKYn6b52w9Zf7onJNjldJ4EMB0fVBjsrdBDzpNx5E58b0f3W+\nqXiO4RWlHpUD39fWs2GK/FjNWl/Kok54jSzvwJrpzb2EJlo3HHT6P/hybeLD9OIw\n0Oj/NsHLubjshNpCJLcZVdCM5mliZvqyXpdeBtMN0QKBgQDh/rzirDOWQqT1AlqB\nLG5ajhF8y+HThgpaLMN1N3gq83iBziH7tmtsCso8w4KaGSDb4COCUIdjqgkzTE3N\noLTDLZ8VL8917HyeXnHjQbMVIkux8a4zN4a1MQ+C1Lu36g3UJ+Oudpbq3OfRuiMS\nMfI+xZeREbLfOUYa533mHoT8JwKBgQC1oXDA6b1ws3gDeU5+XupL5h7K6jzsWND5\nBMRCQeLs0IOq2Is1oLAAthWUNjjw+loPOKb22/rMG9XjmHFVrXWId5knOE3Avt73\n9xyBGMbgF+rdsi2XsFqOA70aGyvxb6mpAsXtcbjcxt7h7ldr3vcHNtbBFcMymscx\ny3irNJ2pGQKBgQDa7s4LhakgGwX0+Ue2NdXeUh0s2dK2+PaUbyMXLhpy+ZS3o3sW\nf51HeJh9DyY5pLhJabTcrKjMa1AoavZAizwyjMK9YqjHY8dCINqRvvb/NU9BXpFU\nuqj8ZT/SjcYhIFQvQEl4nRgNBN5rNbh+CvbTytXPSucPC0wYCkTUJqLMJwKBgQCK\np3mZ61XQ6VCe5kYDtpWJ51xuby6fBpZQ41CnfACt4+f/zltHTynNATOr91C0tYl2\nwTrEjN4CXuWDX2Z1j3t/+D0Ucaj5kTxJc31xF+cKP3fuUgz4FYqrizMa8M80+pc8\nDH/oab5D3BVdyEM4d/eArF54/BINWZbi7n9pwzrwUQKBgB6xRugdGlCN+MF7akIJ\nUUL9KyTmwC1iQxvQfiNMQyGVLn2kWztmTKjyP6maBomXiqeSzL45+aBG2IJaoLgx\noVZkJaS5rqq18zA5iRSr9Ufo1K8cHTZpOKIK6c2xUpWkzj7kS85VZpuc4c2GVBQV\nYXiaZimZmgxxeOMBWr/9uY2z\n-----END PRIVATE KEY-----\n",
+  "client_email": "github-test-leakage-harel@xdr-sc-gcp-dev-0k1xy.iam.gserviceaccount.com",
+  "client_id": "114138104251204654372",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/github-test-leakage-harel%40xdr-sc-gcp-dev-0k1xy.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
